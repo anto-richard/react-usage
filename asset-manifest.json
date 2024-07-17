@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/react-usage/static/css/main.c634b0b4.css",
+    "main.js": "/react-usage/static/js/main.d2329d3d.js",
+    "static/js/453.58244190.chunk.js": "/react-usage/static/js/453.58244190.chunk.js",
+    "static/media/art exhibit.jpg": "/react-usage/static/media/art exhibit.8832373f2d7d6f730019.jpg",
+    "static/media/sports day.jpg": "/react-usage/static/media/sports day.0073bb3178d09810e330.jpg",
+    "static/media/college.webp": "/react-usage/static/media/college.23f2333cd5ecef910720.webp",
+    "static/media/science fair.jpeg": "/react-usage/static/media/science fair.4c4a2851d05f04b98e2b.jpeg",
+    "static/media/tech conference.jpeg": "/react-usage/static/media/tech conference.32c164d82ba93d40cd81.jpeg",
+    "index.html": "/react-usage/index.html",
+    "main.c634b0b4.css.map": "/react-usage/static/css/main.c634b0b4.css.map",
+    "main.d2329d3d.js.map": "/react-usage/static/js/main.d2329d3d.js.map",
+    "453.58244190.chunk.js.map": "/react-usage/static/js/453.58244190.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c634b0b4.css",
+    "static/js/main.d2329d3d.js"
+  ]
+}
